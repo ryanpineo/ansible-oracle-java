@@ -2,7 +2,7 @@
 # nginx/meta/main.yml
 
 galaxy_info:
-    author: williamyeh
+    author: william-yeh
     description: Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
     license: Apache
 
